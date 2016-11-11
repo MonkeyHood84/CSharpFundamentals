@@ -1,0 +1,5 @@
+X:\Development\Personal\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.dll
+X:\Development\Personal\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.pdb
+X:\Development\Personal\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.dll
+X:\Development\Personal\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.pdb
+X:\Development\Personal\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.csprojResolveAssemblyReference.cache

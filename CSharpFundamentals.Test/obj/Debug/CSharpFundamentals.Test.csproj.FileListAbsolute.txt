@@ -1,0 +1,7 @@
+X:\Development\Personal\CSharpFundamentals\CSharpFundamentals.Test\obj\Debug\CSharpFundamentals.Test.csprojResolveAssemblyReference.cache
+X:\Development\Personal\CSharpFundamentals\CSharpFundamentals.Test\bin\Debug\CSharpFundamentals.Test.dll
+X:\Development\Personal\CSharpFundamentals\CSharpFundamentals.Test\bin\Debug\CSharpFundamentals.Test.pdb
+X:\Development\Personal\CSharpFundamentals\CSharpFundamentals.Test\bin\Debug\CSharpFundamentals.dll
+X:\Development\Personal\CSharpFundamentals\CSharpFundamentals.Test\bin\Debug\CSharpFundamentals.pdb
+X:\Development\Personal\CSharpFundamentals\CSharpFundamentals.Test\obj\Debug\CSharpFundamentals.Test.dll
+X:\Development\Personal\CSharpFundamentals\CSharpFundamentals.Test\obj\Debug\CSharpFundamentals.Test.pdb
